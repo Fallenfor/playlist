@@ -1,5 +1,63 @@
-﻿The Cardigans - My Favourite Game
-БРАВО - Этот город
+﻿Пустое множество - Мы так и пойдем
+этажность - Пиво
+этажность - Ужас без конца
+этажность - Защити нас
+этажность - Ладожский вокзал
+Егор и Опизденевшие - Песенка о святости, мыше и камыше
+Смысловые Галлюцинации - Вечно молодой
+Пионерлагерь Пыльная Радуга - Колыбельная
+Последние Танки В Париже - Дворы
+Последние Танки В Париже - Время
+Пионерлагерь Пыльная Радуга - Кайф
+Пионерлагерь Пыльная Радуга - Верю
+Пионерлагерь Пыльная Радуга - Разукрашка
+Пионерлагерь Пыльная Радуга - Отходняк
+Пионерлагерь Пыльная Радуга - Люди с приветом
+Гражданская оборона - Амнезия
+Гражданская оборона - Сквозь дыру в моей голове
+Nine Inch Nails - March Of The Pigs
+Nine Inch Nails - Heresy
+Nine Inch Nails - You Know What You Are?
+Nine Inch Nails - Sunspots
+Nine Inch Nails - Getting Smaller
+Пионерлагерь Пыльная Радуга - Экскурсия
+Последние Танки в Париже - Делали дела
+Последние Танки в Париже - Всё зря!
+Последние Танки в Париже - Они охуели!
+Гражданская оборона - Пошли вы все на хуй
+ФейХоа - Город
+Гражданская оборона - Повезло
+Гражданская оборона - Заебись!
+Последние Танки в Париже - Стукач
+Агата Кристи - Ковер-вертолет
+Последние Танки в Париже - 23 Часа
+Nine Inch Nails - Hurt
+Nine Inch Nails - The Perfect Drug
+Пионерлагерь Пыльная Радуга - Я шёл
+Пионерлагерь Пыльная Радуга - Инфрасерое небо
+Пионерлагерь Пыльная Радуга - Клубника
+Пионерлагерь Пыльная Радуга - Пластилиновая армия
+Nine Inch Nails - Reptile
+Гражданская оборона - Общество «Память»
+Пионерлагерь Пыльная Радуга - Волшебный цветок
+Пионерлагерь Пыльная Радуга - Лампа в решётке
+Пионерлагерь Пыльная Радуга - Петли дней
+Пионерлагерь Пыльная Радуга - Девятиэтажный
+Пионерлагерь Пыльная Радуга - Декабрь
+Пионерлагерь Пыльная Радуга - Верёвка
+Пионерлагерь Пыльная Радуга - Гранж
+Гражданская оборона - Приятного аппетита
+Гражданская оборона - Карантин
+Коммунизм - Иваново детство
+Егор и Опизденевшие - Семь шагов за горизонт
+Nero - Москва 400 (live)
+Nero - Трепанги (live)
+Blue Stahli - ULTRAnumb
+Пионерлагерь Пыльная Радуга - Король червей
+Пионерлагерь Пыльная Радуга - Бхзрд
+Пионерлагерь Пыльная Радуга - Панк и рок-н-ролл
+The Cardigans - My Favourite Game
+Браво - Этот город
 ФейХоа - Orange
 Пионерлагерь Пыльная Радуга - Космос ближе
 Пустое множество - Коробка с карандашами
@@ -83,7 +141,7 @@ System of A Down - A.D.D. (American Dream Denial)
 Последние Танки в Париже - Плачь над любовью
 Последние Танки в Париже - Сердца
 Последние Танки в Париже - Иреализм
-ПТВП - Розы в грязи
+Последние Танки В Париже - Розы в грязи
 Гражданская оборона - Не смешно
 Гражданская оборона - Старость - не радость
 Гражданская оборона - Город детства
@@ -115,7 +173,7 @@ Nirvana - I Hate Myself And Want To Die 2013 Mix
 Последние Танки в Париже - В нирване
 П.Т.В.П. - Игрушки
 ЖЩ - Тоска
-Celldweller - Shapeshifter Instrumental
+Celldweller, Styles Of Beyond - Shapeshifter
 The Offspring - Pretty Fly (For A White Guy)
 Blue Stahli - Scrape
 Celldweller - Switchback
@@ -155,7 +213,7 @@ Nirvana - Stain
 Nirvana - Even In His Youth B-Side
 Pain - Shut Your Mouth
 Nirvana - Paper Cuts Remastered
-Nirvana - Something In The Way Remastered 2021
+Nirvana - Something In The Way
 Nirvana - The Money Will Roll Right In 1992/Live at Reading
 Егор и Опизденевшие - Зря вы это всё
 Егор и Опизденевшие - Семь шагов за горизонт, Ч. 2
@@ -165,7 +223,7 @@ Nirvana - The Money Will Roll Right In 1992/Live at Reading
 Егор и Опизденевшие - Свобода
 Егор и Опизденевшие - Евангелие
 Nirvana - If You Must Demo
-Nirvana - On A Plain Remastered 2021
+Nirvana - On A Plain
 Nirvana - Aero Zeppelin
 Кино, В. Цой - Перемен
 Гражданская оборона - Детский мир
@@ -175,11 +233,10 @@ Nirvana - Aero Zeppelin
 ЖЩ - Вирус
 Гражданская оборона - Слава психонавтам
 ЖЩ - Имя
-Король & Шут - Лесник
 Король и Шут - Прыгну со скалы (bonus version)
 Егор и Опизденевшие - Вечная весна
 Nirvana - Love Buzz Remastered
-Гражданская оборона - Следы на снегу
+Егор и Опиздиневшие - Следы на снегу
 Marilyn Manson - Sweet Dreams (Are Made Of This)
 ЖЩ - JoJo Mooon
 ЖЩ - Сердце снаружи
@@ -212,6 +269,7 @@ Nirvana - Swap Meet Remastered
 Гражданская оборона - Насрать на моё лицо
 ЖЩ - Обратно
 ЖЩ - 60 лет до смерти
+ЖЩ - Небо как тогда
 Гражданская оборона - Солдатами не рождаются
 Коммунизм - Советская звезда
 Гражданская оборона - Победа
@@ -226,9 +284,9 @@ Alyans - Na Zare
 Marilyn Manson - This Is The New Shit
 Наутилус Помпилиус - Матерь богов
 Наутилус Помпилиус - Черные птицы
-ПТВП - Никогда не говори никогда
+Последние Танки В Париже - Никогда не говори никогда
 ПТВП - Песни без правил
-ПТВП - Нет!
+Последние Танки В Париже - Нет!
 Serj Tankian - Lie Lie Lie
 Serj Tankian - Harakiri
 Serj Tankian - Saving Us
@@ -253,20 +311,20 @@ Nirvana - You Know Youre Right
 Nirvana - Sappy
 Nirvana - Smells like teen spirit (Original)
 Nirvana - Heart-Shaped Box
-Nirvana - Lithium Remastered 2021
-Nirvana - Stay Away Remastered 2021
-Nirvana - In Bloom Remastered 2021
+Nirvana - Lithium
+Nirvana - Stay Away
+Nirvana - In Bloom
 Nirvana - Sliver
-Nirvana - Come As You Are Remastered 2021
+Nirvana - Come As You Are
 Nirvana - Milk It 2013 Mix
 Nirvana - Dumb
-Nirvana - Drain You Remastered 2021
+Nirvana - Drain You
 Nirvana - Love Buzz 10/26/89 BBC FM
-Nirvana - Breed Remastered 2021
+Nirvana - Breed
 Nirvana - Frances Farmer Will Have Her Revenge On Seattle
-Nirvana - The Man Who Sold The World Live Version
+Nirvana - The Man Who Sold The World Live
 Nirvana - Pennyroyal Tea 2013 Mix
-Nirvana - Lake Of Fire Live Version
+Nirvana - Lake Of Fire Live
 Nirvana - Territorial Pissings
 Nirvana - Aneurysm
 Nirvana - Floyd The Barber Remastered
@@ -298,9 +356,7 @@ Nirvana - Dive
 Король и Шут - Танец злобного гения
 ЖЩ - Впусти в себя добро (live)
 ЖЩ - Боль всего мира
-ЖЩ - Ты должен сдохнуть первым
 ЖЩ - Жертвенная
-ЖЩ - Небо как тогда
 ЖЩ - Финский залив
 ЖЩ - Ключ
 ЖЩ - У меня есть мечта
